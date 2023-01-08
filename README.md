@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niquapod
 - 👀 I’m interested in hacking, security, process controls
-- 🌱 I’m currently learning anything free on TryHackMe
+- 🌱 I’m currently learning ~~anything free~~ as much as possible on TryHackMe
 - 📫 How to reach me @niquapod in lots of places
 
 <!---
