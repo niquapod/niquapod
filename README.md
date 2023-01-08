@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niquapod
 - 👀 I’m interested in hacking, security, process controls
 - 🌱 I’m currently learning ~~anything free~~ as much as possible on TryHackMe
-- 📫 How to reach me @niquapod in lots of places
+- 📫 How to reach me: @niquapod in lots of places
 
 <!---
 niquapod/niquapod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
